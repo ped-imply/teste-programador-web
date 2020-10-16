@@ -1,8 +1,0 @@
-{
-    "name" : "teste/vendas",
-    "autoload" : {
-        "psr-4" : {
-            "App\\" : "app/"
-        }
-    }
-}
