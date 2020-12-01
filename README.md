@@ -1,4 +1,4 @@
-# Teste prático para Programador Web Home Office.
+# Teste prático para Programador Web.
 
 O objetivo deste teste é conhecer suas habilidades em:
 
